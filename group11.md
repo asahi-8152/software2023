@@ -1,5 +1,8 @@
 # Introduction
 
 ### about favorite food
-Hamburgers
-Sushi
+Hamburgers 
+
+Sushi 
+
+Apple
